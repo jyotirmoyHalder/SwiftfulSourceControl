@@ -46,6 +46,10 @@ struct ContentView: View {
                 
             }
             .background(Color.green)
+            Rectangle()
+                .frame(height: 100)
+            Circle()
+                .frame(height: 100)
         }
         .padding()
     }
