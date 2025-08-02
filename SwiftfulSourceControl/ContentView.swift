@@ -59,6 +59,8 @@ struct ContentView: View {
                 .frame(height: 100)
             Circle()
                 .frame(height: 100)
+            Rectangle()
+                .frame(height: 100)
             
             Text("Let I have add somethingin this")
         }
