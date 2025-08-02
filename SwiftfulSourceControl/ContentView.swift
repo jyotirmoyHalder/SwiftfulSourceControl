@@ -12,7 +12,6 @@ struct ContentView: View {
         VStack {
             Image(systemName: "heart.fill")
                 .font(.largeTitle)
-                .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Swiftful Thinking")
             
