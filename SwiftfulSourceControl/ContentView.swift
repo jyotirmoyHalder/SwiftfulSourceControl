@@ -44,6 +44,7 @@ struct ContentView: View {
             Text("Swiftful! Thinking")
             Text("this is anotehr change for second branch.")
             Text("Two shape added")
+            Text("Now I'm practicing on my second branch")
             Button("Click Me") {
                 
             }
