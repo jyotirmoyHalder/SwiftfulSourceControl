@@ -42,6 +42,7 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
             Text("Swiftful! Thinking")
+            Text("this is anotehr change for second branch.")
             Text("Two shape added")
             Button("Click Me") {
                 
