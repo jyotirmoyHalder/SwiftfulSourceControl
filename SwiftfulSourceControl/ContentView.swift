@@ -45,7 +45,7 @@ struct ContentView: View {
             Button("Subscribe") {
                 
             }
-            .background(Color.red)
+            .background(Color.green)
         }
         .padding()
     }
