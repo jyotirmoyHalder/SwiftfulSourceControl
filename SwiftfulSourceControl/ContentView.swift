@@ -63,6 +63,7 @@ struct ContentView: View {
                 .frame(height: 100)
             
             Text("Let I have add somethingin this")
+            Text("Let I have add somethingin this")
         }
         .padding()
     }
