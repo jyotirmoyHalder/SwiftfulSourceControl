@@ -13,9 +13,12 @@ struct HomeView: View {
             Text("Screen 2!")
         }
         VStack {
-            ForEach(0..<10){ _ in
+            ForEach(0..<5){ _ in
                 Image(systemName: "heart.fill")
                     .font(.largeTitle)
+            }
+            Button("Subscribe") {
+                
             }
         }
     }
