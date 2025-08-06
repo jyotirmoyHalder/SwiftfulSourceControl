@@ -47,14 +47,8 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
             Text("Swiftful! Thinking")
-            Text("this is anotehr change for second branch.")
-            Text("Two shape added")
-            Text("Now I'm practicing on my second branch")
-            Text("This is another ")
-            Button("Click Me") {
-                
-            }
-            .background(Color.green)
+            
+            
             
             Button("Subscribe now!") {
                 
@@ -63,8 +57,6 @@ struct ContentView: View {
             Rectangle()
                 .frame(height: 100)
             Circle()
-                .frame(height: 100)
-            Rectangle()
                 .frame(height: 100)
             
             Text("Let I have add somethingin this")
