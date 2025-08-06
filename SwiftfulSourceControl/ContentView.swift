@@ -14,7 +14,8 @@
  Pull = Fetch remote commits to local repo
  Merge = Joining two branch
  Rebase = Moving one branch on top of another branch
- Cherry picking = Duplicating (copying) one commit from one branch to other branch
+ Cherry Picking = Duplicating (copying) one commit from one branch to other branch
+ Pull Request [PR] = Request to merge branch
  
  
  COMMIT MESSAGES

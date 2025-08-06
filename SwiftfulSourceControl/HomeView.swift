@@ -10,7 +10,7 @@ import SwiftUI
 struct HomeView: View {
     var body: some View {
         ZStack {
-            Text("Screen 2!")
+            Text("Hello Nick")
         }
         VStack {
             ForEach(0..<10){ _ in
