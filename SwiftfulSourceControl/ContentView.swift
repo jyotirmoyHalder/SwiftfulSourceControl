@@ -47,7 +47,7 @@ struct ContentView: View {
             Image(systemName: "bolt.fill")
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
-            Text("Swiftful! Thinking")
+            Text("Swiftful!")
             
             
             
@@ -55,12 +55,10 @@ struct ContentView: View {
                 
             }
             .background(Color.green)
-            Rectangle()
-                .frame(height: 100)
+            
             Circle()
                 .frame(height: 100)
             
-            Text("Let I have add somethingin this")
             Text("Let I have add somethingin this")
         }
         .padding()
