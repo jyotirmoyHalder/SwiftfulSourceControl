@@ -54,12 +54,10 @@ struct ContentView: View {
                 
             }
             .background(Color.green)
-            Rectangle()
-                .frame(height: 100)
+            
             Circle()
                 .frame(height: 100)
             
-            Text("Let I have add somethingin this")
             Text("Let I have add somethingin this")
         }
         .padding()
