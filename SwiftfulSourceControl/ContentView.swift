@@ -46,7 +46,7 @@ struct ContentView: View {
             Image(systemName: "bolt.fill")
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
-            Text("Swiftful! Thinking")
+            Text("Swiftful!")
             
             
             
