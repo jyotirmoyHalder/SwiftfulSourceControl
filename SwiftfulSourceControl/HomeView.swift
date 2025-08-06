@@ -11,18 +11,12 @@ struct HomeView: View {
     var body: some View {
         ZStack {
             Text("Screen 2!")
-            Text("Screen 2!")
-            Text("Screen 2!")
-            Text("Screen 2!")
         }
         VStack {
-            Text("Screen 2!")
-            
-            
-            Text("Screen 2!")
-            Text("Screen 2!")
-            
-            Text("I have also add something in this file.")
+            ForEach(0..<10){ _ in
+                Image(systemName: "heart.fill")
+                    .font(.largeTitle)
+            }
         }
     }
 }
