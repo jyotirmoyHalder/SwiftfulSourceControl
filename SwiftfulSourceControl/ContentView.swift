@@ -14,7 +14,8 @@
  Pull = Fetch remote commits to local repo
  Merge = Joining two branch
  Rebase = Moving one branch on top of another branch
- Cherry picking = Duplicating (copying) one commit from one branch to other branch
+ Cherry Picking = Duplicating (copying) one commit from one branch to other branch
+ Pull Request [PR] = Request to merge branch
  
  
  COMMIT MESSAGES
@@ -47,14 +48,8 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
             Text("Swiftful! Thinking")
-            Text("this is anotehr change for second branch.")
-            Text("Two shape added")
-            Text("Now I'm practicing on my second branch")
-            Text("This is another ")
-            Button("Click Me") {
-                
-            }
-            .background(Color.green)
+            
+            
             
             Button("Subscribe now!") {
                 
@@ -63,8 +58,6 @@ struct ContentView: View {
             Rectangle()
                 .frame(height: 100)
             Circle()
-                .frame(height: 100)
-            Rectangle()
                 .frame(height: 100)
             
             Text("Let I have add somethingin this")
