@@ -46,15 +46,7 @@ struct ContentView: View {
             Image(systemName: "bolt.fill")
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
-            Text("Swiftful! Thinking")
-            Text("this is anotehr change for second branch.")
-            Text("Two shape added")
-            Text("Now I'm practicing on my second branch")
-            Text("This is another ")
-            Button("Click Me") {
-                
-            }
-            .background(Color.green)
+            Text("Swiftful")
             
             Button("Subscribe now!") {
                 
