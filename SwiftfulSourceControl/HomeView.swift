@@ -16,6 +16,8 @@ struct HomeView: View {
             ForEach(0..<5){ _ in
                 Image(systemName: "heart.fill")
                     .font(.largeTitle)
+                Circle()
+                    .frame(width: 70)
             }
             Button("Subscribe") {
                 
