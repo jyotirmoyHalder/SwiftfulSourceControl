@@ -17,6 +17,11 @@
  Cherry Picking = Duplicating (copying) one commit from one branch to other branch
  Pull Request [PR]  or PR Merge= Request to merge branch
  PR Squash and Merge = Squash all commits into ONE and then merge ONE commit
+ Protecting Branches
+ CODEOWNERS
+ GitIgnore
+ ReadMe
+ Releases, Tags, Versioning
  
  
  
