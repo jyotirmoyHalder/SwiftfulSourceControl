@@ -1,0 +1,9 @@
+# Set jyotirmoyHalder as the default code owner for all files
+* @jyotirmoyHalder
+
+# Example: Assign jyotirmoyHalder specifically to the iOS codebase
+/ios/ @jyotirmoyHalder
+
+# Example: If you later add more owners for other areas, you can do something like:
+/backend/ @otherContributor
+/docs/ @docsTeam
